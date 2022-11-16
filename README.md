@@ -23,7 +23,7 @@ Just some sample code that we discussed in class, as well as everything that is 
 ## images folder
 Just all memes and images used in the Colab Notebook.
  - [Link to open the live coding session WITHOUT solutions in Google Colab](https://colab.research.google.com/github/PerfXWeb/python-workshop-2022-11-09/blob/master/sample_code/project_bitcoin/project_bitcoin_noSolutions.ipynb)
- - [Link to open the live coding session WITH solutions in Google Colab](https://colab.research.google.com/github/PerfXWeb/python-workshop-2022-11-09/blob/master/sample_code/project_bitcoin/project_bitcoin_noSolutions.ipynb)
+ - [Link to open the live coding session WITH solutions in Google Colab](https://colab.research.google.com/github/PerfXWeb/python-workshop-2022-11-09/blob/master/sample_code/project_bitcoin/project_bitcoin_withSolutions.ipynb)
 
 
 Don't worry about the .gitignore and README.md files too much.
